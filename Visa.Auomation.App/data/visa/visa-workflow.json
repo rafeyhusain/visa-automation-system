@@ -1,0 +1,135 @@
+[
+    {
+        "id": "1",
+        "title": "login",
+        "url": "data/visa/login.html",
+        "tasks": [
+            {
+                "id": "1",
+                "type": "fill",
+                "title": "Fill login form",
+                "data": [
+                    {
+                        "id": "email_id",
+                        "value": "a@b.com",
+                        "type": "textbox"
+                    },
+                    {
+                        "id": "pwd_id",
+                        "value": "123",
+                        "type": "textbox"
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "type": "cloudflare-captcha",
+                "title": "Solve cloudflare captcha on login form"
+            },
+            {
+                "id": "3",
+                "type": "button-click",
+                "title": "Submit login form",
+                "data": [
+                    {
+                        "id": "btnsubmit"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "title": "visa",
+        "url": "data/visa/visa.html",
+        "tasks": [
+            {
+                "id": "1",
+                "type": "fill",
+                "title": "Fill Visa Application Form",
+                "data": [
+                    {
+                        "id": "fullName",
+                        "value": "John Doe",
+                        "type": "textbox"
+                    },
+                    {
+                        "id": "dob",
+                        "value": "1990-05-15",
+                        "type": "textbox"
+                    },
+                    {
+                        "id": "placeOfBirth",
+                        "value": "New York, USA",
+                        "type": "textbox"
+                    },
+                    {
+                        "id": "nationality",
+                        "value": "American",
+                        "type": "textbox"
+                    },
+                    {
+                        "id": "passportNumber",
+                        "value": "X1234567",
+                        "type": "textbox"
+                    },
+                    {
+                        "id": "passportIssueDate",
+                        "value": "2015-06-10",
+                        "type": "textbox"
+                    },
+                    {
+                        "id": "passportExpiryDate",
+                        "value": "2025-06-10",
+                        "type": "textbox"
+                    },
+                    {
+                        "id": "visaType",
+                        "value": "student",
+                        "type": "select"
+                    },
+                    {
+                        "id": "entryDate",
+                        "value": "2025-06-01",
+                        "type": "textbox"
+                    },
+                    {
+                        "id": "exitDate",
+                        "value": "2025-06-30",
+                        "type": "textbox"
+                    },
+                    {
+                        "id": "address",
+                        "value": "123 Rue de Paris, Paris, France",
+                        "type": "textarea"
+                    },
+                    {
+                        "id": "email",
+                        "value": "johndoe@email.com",
+                        "type": "textbox"
+                    },
+                    {
+                        "id": "phone",
+                        "value": "+1234567890",
+                        "type": "textbox"
+                    },
+                    {
+                        "id": "travelPurpose",
+                        "value": "Tourism",
+                        "type": "textarea"
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "type": "button-click",
+                "title": "Submit visa form",
+                "data": [
+                    {
+                        "id": "btnsubmit"
+                    }
+                ]
+            }
+        ]
+    }
+]

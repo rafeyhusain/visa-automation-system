@@ -1,0 +1,61 @@
+[
+    {
+        "id": "1",
+        "title": "login",
+        "url": "data/sample/sample.html",
+        "tasks": [
+            {
+                "id": "1",
+                "type": "fill",
+                "title": "Fill all input types",
+                "data": [
+                    {
+                        "id": "email_id",
+                        "type": "email",
+                        "value": "user@example.com"
+                    },
+                    {
+                        "id": "pwd_id",
+                        "type": "password",
+                        "value": "mypassword123"
+                    },
+                    {
+                        "id": "bio_id",
+                        "type": "textarea",
+                        "value": "This is a test bio."
+                    },
+                    {
+                        "id": "visaType",
+                        "type": "select",
+                        "value": "business"
+                    },
+                    {
+                        "id": "agree_id",
+                        "type": "checkbox",
+                        "value": "true"
+                    },
+                    {
+                        "id": "gender_male",
+                        "type": "radio",
+                        "value": "true"
+                    },
+                    {
+                        "id": "age_id",
+                        "type": "number",
+                        "value": "30"
+                    },
+                    {
+                        "id": "birth_date",
+                        "type": "date",
+                        "value": "1995-05-08"
+                    },
+                    {
+                        "id": "hidden_token",
+                        "type": "hidden",
+                        "value": "1234567890"
+                    }
+                ]
+            }
+        ]
+    }
+]

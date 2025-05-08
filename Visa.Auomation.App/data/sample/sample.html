@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sample Form</title>
+</head>
+<body>
+    <h2>Sample</h2>
+    <form action="/visa" method="post">
+        <input type="email" id="email_id" /><br>
+        <input type="password" id="pwd_id" /><br>
+        <textarea id="bio_id"></textarea><br>
+
+        <select id="visaType">
+            <option value="">--Select--</option>
+            <option value="tourist">Tourist</option>
+            <option value="business">Business</option>
+        </select><br>
+
+        <input type="checkbox" id="agree_id" /><br>
+        <input type="radio" id="gender_male" name="gender" value="male" /><br>
+        <input type="number" id="age_id" /><br>
+        <input type="date" id="birth_date" /><br>
+        <input type="hidden" id="hidden_token" /><br>
+
+        <!-- Submit Button with explicit ID -->
+        <input type="submit" id="btnsubmit" value="Login">
+    </form>
+</body>
+</html>

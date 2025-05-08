@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Visa.Auomation.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a178c2f2e167918537276e574962b1ce93a6a5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Visa.Auomation.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Visa.Auomation.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

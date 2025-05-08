@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Visa Application Form</title>
+</head>
+<body>
+
+    <h2>Visa Application Form</h2>
+
+    <form action="/submit" method="post">
+
+        <label for="fullName">Full Name (as per passport)</label>
+        <input type="text" id="fullName" name="fullName" required>
+
+        <label for="dob">Date of Birth</label>
+        <input type="date" id="dob" name="dob" required>
+
+        <label for="placeOfBirth">Place of Birth</label>
+        <input type="text" id="placeOfBirth" name="placeOfBirth">
+
+        <label for="nationality">Current Nationality</label>
+        <input type="text" id="nationality" name="nationality">
+
+        <label for="passportNumber">Passport Number</label>
+        <input type="text" id="passportNumber" name="passportNumber" required>
+
+        <label for="passportIssueDate">Passport Issue Date</label>
+        <input type="date" id="passportIssueDate" name="passportIssueDate">
+
+        <label for="passportExpiryDate">Passport Expiry Date</label>
+        <input type="date" id="passportExpiryDate" name="passportExpiryDate">
+
+        <label for="visaType">Type of Visa</label>
+        <select id="visaType" name="visaType" required>
+            <option value="">--Select--</option>
+            <option value="tourist">Tourist</option>
+            <option value="business">Business</option>
+            <option value="student">Student</option>
+            <option value="family">Family Visit</option>
+        </select>
+
+        <label for="entryDate">Planned Date of Entry into </label>
+        <input type="date" id="entryDate" name="entryDate">
+
+        <label for="exitDate">Planned Date of Exit</label>
+        <input type="date" id="exitDate" name="exitDate">
+
+        <label for="address">Address During Stay</label>
+        <textarea id="address" name="address" rows="3"></textarea>
+
+        <label for="email">Email Address</label>
+        <input type="email" id="email" name="email">
+
+        <label for="phone">Phone Number</label>
+        <input type="tel" id="phone" name="phone">
+
+        <label for="travelPurpose">Purpose of Visit</label>
+        <textarea id="travelPurpose" name="travelPurpose" rows="3"></textarea>
+
+        <button type="submit" id="btnsubmit">Submit Application</button>
+
+    </form>
+
+</body>
+</html>

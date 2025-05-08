@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0022DD6-FE3E-A253-FD78-CA08CEA90556}|Visa.Auomation.App\\Visa.Auomation.App.csproj|c:\\data\\rafeyhusain\\git\\visa-automation-system\\visa.auomation.app\\visa.auomation.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A0022DD6-FE3E-A253-FD78-CA08CEA90556}|Visa.Auomation.App\\Visa.Auomation.App.csproj|solutionrelative:visa.auomation.app\\visa.auomation.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A0022DD6-FE3E-A253-FD78-CA08CEA90556}|Visa.Auomation.App\\Visa.Auomation.App.csproj|c:\\data\\rafeyhusain\\git\\visa-automation-system\\visa.auomation.app\\model\\workflowconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0022DD6-FE3E-A253-FD78-CA08CEA90556}|Visa.Auomation.App\\Visa.Auomation.App.csproj|solutionrelative:visa.auomation.app\\model\\workflowconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0022DD6-FE3E-A253-FD78-CA08CEA90556}|Visa.Auomation.App\\Visa.Auomation.App.csproj|c:\\data\\rafeyhusain\\git\\visa-automation-system\\visa.auomation.app\\data\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0022DD6-FE3E-A253-FD78-CA08CEA90556}|Visa.Auomation.App\\Visa.Auomation.App.csproj|solutionrelative:visa.auomation.app\\data\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A0022DD6-FE3E-A253-FD78-CA08CEA90556}|Visa.Auomation.App\\Visa.Auomation.App.csproj|c:\\data\\rafeyhusain\\git\\visa-automation-system\\visa.auomation.app\\model\\workflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0022DD6-FE3E-A253-FD78-CA08CEA90556}|Visa.Auomation.App\\Visa.Auomation.App.csproj|solutionrelative:visa.auomation.app\\model\\workflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0022DD6-FE3E-A253-FD78-CA08CEA90556}|Visa.Auomation.App\\Visa.Auomation.App.csproj|c:\\data\\rafeyhusain\\git\\visa-automation-system\\visa.auomation.app\\docs\\env.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A0022DD6-FE3E-A253-FD78-CA08CEA90556}|Visa.Auomation.App\\Visa.Auomation.App.csproj|solutionrelative:visa.auomation.app\\docs\\env.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A0022DD6-FE3E-A253-FD78-CA08CEA90556}|Visa.Auomation.App\\Visa.Auomation.App.csproj|c:\\data\\rafeyhusain\\git\\visa-automation-system\\visa.auomation.app\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0022DD6-FE3E-A253-FD78-CA08CEA90556}|Visa.Auomation.App\\Visa.Auomation.App.csproj|solutionrelative:visa.auomation.app\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0022DD6-FE3E-A253-FD78-CA08CEA90556}|Visa.Auomation.App\\Visa.Auomation.App.csproj|c:\\data\\rafeyhusain\\git\\visa-automation-system\\visa.auomation.app\\data\\login.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A0022DD6-FE3E-A253-FD78-CA08CEA90556}|Visa.Auomation.App\\Visa.Auomation.App.csproj|solutionrelative:visa.auomation.app\\data\\login.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0022DD6-FE3E-A253-FD78-CA08CEA90556}|Visa.Auomation.App\\Visa.Auomation.App.csproj|c:\\data\\rafeyhusain\\git\\visa-automation-system\\visa.auomation.app\\model\\webformautofiller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0022DD6-FE3E-A253-FD78-CA08CEA90556}|Visa.Auomation.App\\Visa.Auomation.App.csproj|solutionrelative:visa.auomation.app\\model\\webformautofiller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0022DD6-FE3E-A253-FD78-CA08CEA90556}|Visa.Auomation.App\\Visa.Auomation.App.csproj|c:\\data\\rafeyhusain\\git\\visa-automation-system\\visa.auomation.app\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A0022DD6-FE3E-A253-FD78-CA08CEA90556}|Visa.Auomation.App\\Visa.Auomation.App.csproj|solutionrelative:visa.auomation.app\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A0022DD6-FE3E-A253-FD78-CA08CEA90556}|Visa.Auomation.App\\Visa.Auomation.App.csproj|c:\\data\\rafeyhusain\\git\\visa-automation-system\\visa.auomation.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0022DD6-FE3E-A253-FD78-CA08CEA90556}|Visa.Auomation.App\\Visa.Auomation.App.csproj|solutionrelative:visa.auomation.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0022DD6-FE3E-A253-FD78-CA08CEA90556}|Visa.Auomation.App\\Visa.Auomation.App.csproj|c:\\data\\rafeyhusain\\git\\visa-automation-system\\visa.auomation.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0022DD6-FE3E-A253-FD78-CA08CEA90556}|Visa.Auomation.App\\Visa.Auomation.App.csproj|solutionrelative:visa.auomation.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0022DD6-FE3E-A253-FD78-CA08CEA90556}|Visa.Auomation.App\\Visa.Auomation.App.csproj|c:\\data\\rafeyhusain\\git\\visa-automation-system\\visa.auomation.app\\model\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0022DD6-FE3E-A253-FD78-CA08CEA90556}|Visa.Auomation.App\\Visa.Auomation.App.csproj|solutionrelative:visa.auomation.app\\model\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,92 +46,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "env.txt",
-              "DocumentMoniker": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\docs\\env.txt",
-              "RelativeDocumentMoniker": "Visa.Auomation.App\\docs\\env.txt",
-              "ToolTip": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\docs\\env.txt",
-              "RelativeToolTip": "Visa.Auomation.App\\docs\\env.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-08T09:35:03.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "login.html",
-              "DocumentMoniker": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\data\\login.html",
-              "RelativeDocumentMoniker": "Visa.Auomation.App\\data\\login.html",
-              "ToolTip": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\data\\login.html",
-              "RelativeToolTip": "Visa.Auomation.App\\data\\login.html",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-08T08:29:47.833Z",
+              "Title": "Workflow.cs",
+              "DocumentMoniker": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\Model\\Workflow.cs",
+              "RelativeDocumentMoniker": "Visa.Auomation.App\\Model\\Workflow.cs",
+              "ToolTip": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\Model\\Workflow.cs",
+              "RelativeToolTip": "Visa.Auomation.App\\Model\\Workflow.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:59:10.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Main.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
               "DocumentMoniker": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\Main.cs",
               "RelativeDocumentMoniker": "Visa.Auomation.App\\Main.cs",
-              "ToolTip": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\Main.cs [Design]",
-              "RelativeToolTip": "Visa.Auomation.App\\Main.cs [Design]",
+              "ToolTip": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\Main.cs",
+              "RelativeToolTip": "Visa.Auomation.App\\Main.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T08:12:00.55Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\Program.cs",
-              "RelativeDocumentMoniker": "Visa.Auomation.App\\Program.cs",
-              "ToolTip": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\Program.cs",
-              "RelativeToolTip": "Visa.Auomation.App\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T08:07:56.668Z",
+              "WhenOpened": "2025-05-08T13:49:02.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "WebFormAutoFiller.cs",
-              "DocumentMoniker": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\Model\\WebFormAutoFiller.cs",
-              "RelativeDocumentMoniker": "Visa.Auomation.App\\Model\\WebFormAutoFiller.cs",
-              "ToolTip": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\Model\\WebFormAutoFiller.cs",
-              "RelativeToolTip": "Visa.Auomation.App\\Model\\WebFormAutoFiller.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAowEcAAAAwAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\Program.cs",
+              "RelativeDocumentMoniker": "Visa.Auomation.App\\Program.cs",
+              "ToolTip": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\Program.cs",
+              "RelativeToolTip": "Visa.Auomation.App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T08:03:50.294Z",
+              "WhenOpened": "2025-05-08T13:58:45.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\Model\\Logger.cs",
+              "RelativeDocumentMoniker": "Visa.Auomation.App\\Model\\Logger.cs",
+              "ToolTip": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\Model\\Logger.cs",
+              "RelativeToolTip": "Visa.Auomation.App\\Model\\Logger.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:57:20.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Visa.Auomation.App",
-              "DocumentMoniker": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\Visa.Auomation.App.csproj",
-              "RelativeDocumentMoniker": "Visa.Auomation.App\\Visa.Auomation.App.csproj",
-              "ToolTip": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\Visa.Auomation.App.csproj",
-              "RelativeToolTip": "Visa.Auomation.App\\Visa.Auomation.App.csproj",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAQwA8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-08T08:03:24.716Z",
+              "Title": "WorkflowConfig.cs",
+              "DocumentMoniker": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\Model\\WorkflowConfig.cs",
+              "RelativeDocumentMoniker": "Visa.Auomation.App\\Model\\WorkflowConfig.cs",
+              "ToolTip": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\Model\\WorkflowConfig.cs",
+              "RelativeToolTip": "Visa.Auomation.App\\Model\\WorkflowConfig.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:51:51.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "login.json",
-              "DocumentMoniker": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\data\\login.json",
-              "RelativeDocumentMoniker": "Visa.Auomation.App\\data\\login.json",
-              "ToolTip": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\data\\login.json",
-              "RelativeToolTip": "Visa.Auomation.App\\data\\login.json",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBoAAAAlAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\appsettings.json",
+              "RelativeDocumentMoniker": "Visa.Auomation.App\\appsettings.json",
+              "ToolTip": "C:\\data\\rafeyhusain\\git\\visa-automation-system\\Visa.Auomation.App\\appsettings.json",
+              "RelativeToolTip": "Visa.Auomation.App\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-08T07:47:28.851Z",
+              "WhenOpened": "2025-05-08T13:51:22.206Z",
               "EditorCaption": ""
             }
           ]
